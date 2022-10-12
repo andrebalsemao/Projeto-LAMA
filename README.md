@@ -6,4 +6,4 @@ O LAMA (Labenu Music Awards) está previsto para acontecer no fim do ano e ainda
 
 Para gerenciar o evento é necessário organizar e centralizar as informações dos shows em um servidor, que então disponibiliza os dados para o website no front-end. Além de controlar os eventos com suas bandas e datas do show, a aplicação também deve gerenciar os ingressos de cada show. A arena tem uma capacidade máxima de 5000 pessoas, portanto deve ser respeitado um limite máximo de ingressos por show.
 
-Os testes apresentam cobertura de 100% do código
+Os testes apresentam cobertura superior a 85% do código.
